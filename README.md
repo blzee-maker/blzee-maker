@@ -26,4 +26,4 @@ Deepening my RAG and evaluation work, and getting my projects to a standard wher
 
 ## Connect
 
-Open to AI Engineer opportunities. Feel free to reach out.
+Open to AI Engineer opportunities. Find me on [LinkedIn](https://www.linkedin.com/in/om-jha-061808201).
