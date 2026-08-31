@@ -12,9 +12,9 @@ A privacy-first AI assistant that runs entirely offline. Local LLM inference thr
 
 Core AI engineering fundamentals built from scratch, step by step: tokenization with BPE, embeddings and semantic similarity, a MiniGPT implemented in PyTorch, training loops with loss curves, encoder versus decoder architectures, prompting techniques, and API and tool-use mechanics with Gemini and Ollama.
 
-### [Candidate-job-recommendation](https://github.com/blzee-maker/Candidate-job-recommendation)
+### [Model-Drifting-and-Data-Monitoring ](https://github.com/blzee-maker/Model-Drifting-and-Data-Monitoring)
 
-An LLM-powered recruiting tool. It parses a job description with Gemini, embeds and scores candidates against it, and surfaces the ten strongest matches through a Streamlit interface.
+A monitoring pipeline that detects **data drift** by comparing incoming production data against a training-time baseline, and raises a retraining signal when the share of drifted features crosses a configurable threshold.
 
 ## Tech I work with
 
