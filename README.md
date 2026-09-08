@@ -8,6 +8,10 @@ AI Engineer in progress. I build systems around LLMs: local and offline inferenc
 
 A privacy-first AI assistant that runs entirely offline. Local LLM inference through Ollama, offline speech-to-text and text-to-speech (faster-whisper and Piper), RAG over your own documents using FAISS and ONNX embeddings, and a permissioned tool system where destructive actions always require explicit confirmation. Backed by 210+ unit tests.
 
+### [Audbre](https://github.com/blzee-maker/audbre)
+
+Point at a sound in a recording and take it out. Prompt-driven audio removal built on SAM Audio.
+
 ### [AI-Engineer-learning](https://github.com/blzee-maker/AI-Engineer-learning)
 
 Core AI engineering fundamentals built from scratch, step by step: tokenization with BPE, embeddings and semantic similarity, a MiniGPT implemented in PyTorch, training loops with loss curves, encoder versus decoder architectures, prompting techniques, and API and tool-use mechanics with Gemini and Ollama.
