@@ -31,3 +31,4 @@ Deepening my RAG and evaluation work, and getting my projects to a standard wher
 ## Connect
 
 Open to AI Engineer opportunities. Find me on [LinkedIn](https://www.linkedin.com/in/om-jha-061808201).
+CHeck my portfolio. Find me on [OmJha](https://om-jha-portfolio.vercel.app/)
