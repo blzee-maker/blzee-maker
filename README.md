@@ -8,7 +8,7 @@ AI Engineer in progress. I build systems around LLMs: local and offline inferenc
 
 A privacy-first AI assistant that runs entirely offline. Local LLM inference through Ollama, offline speech-to-text and text-to-speech (faster-whisper and Piper), RAG over your own documents using FAISS and ONNX embeddings, and a permissioned tool system where destructive actions always require explicit confirmation. Backed by 210+ unit tests.
 
-###[AudStories](https://github.com/blzee-maker/audstories)
+### [AudStories](https://github.com/blzee-maker/audstories)
 AI-powered audio production platform: story text to finished audiobook or audio drama.
 
 ### [Audbre](https://github.com/blzee-maker/audbre)
