@@ -1,37 +1,45 @@
-# Hi, I'm Om
+# Hi, I'm Om Jha
 
-AI Engineer in progress. I build systems around LLMs: local and offline inference, retrieval-augmented generation, and applied ML tooling. I care about projects that work end to end, not just in a notebook.
+**Aspiring Associate Product Manager (APM) | AI/ML Product Builder | Engineer at heart**
 
-## What I'm building
+I bring a hands-on AI engineering background and a growing product-management toolkit to building useful, user-focused products. I enjoy turning ambiguous problems into clear opportunities, understanding user needs, prioritizing what matters, and working across design and engineering to deliver measurable outcomes.
 
-### [local-ai-assistant](https://github.com/blzee-maker/local-ai-assistant)
+I'm especially interested in **AI/ML product management** and early-career APM opportunities where I can combine technical fluency, customer focus, and structured problem-solving.
 
-A privacy-first AI assistant that runs entirely offline. Local LLM inference through Ollama, offline speech-to-text and text-to-speech (faster-whisper and Piper), RAG over your own documents using FAISS and ONNX embeddings, and a permissioned tool system where destructive actions always require explicit confirmation. Backed by 210+ unit tests.
+## How I approach product work
+
+- **Start with the user:** clarify the problem, audience, and unmet need before jumping to a solution.
+- **Set direction:** define goals, success measures, and a focused roadmap; prioritize by user value and effort.
+- **Build with the team:** translate product needs into clear requirements and collaborate closely with engineering and design.
+- **Learn and iterate:** use feedback and metrics to evaluate outcomes and improve the product.
+
+## Selected projects
+
+### [Local AI Assistant](https://github.com/blzee-maker/local-ai-assistant)
+A privacy-first assistant that runs offline, with local language models, speech capabilities, and retrieval over personal documents. Explores how to make AI useful while keeping user data on-device.
 
 ### [AudStories](https://github.com/blzee-maker/audstories)
-AI-powered audio production platform: story text to finished audiobook or audio drama.
+An AI-powered audio production platform that turns story text into an audiobook or audio drama.
 
 ### [Audbre](https://github.com/blzee-maker/audbre)
+A prompt-driven audio tool for removing a selected sound from a recording.
 
-Point at a sound in a recording and take it out. Prompt-driven audio removal built on SAM Audio.
+### [AI Engineer Learning](https://github.com/blzee-maker/AI-Engineer-learning)
+A practical learning project covering AI fundamentals, from tokenization and embeddings to a small GPT implemented in PyTorch.
 
-### [AI-Engineer-learning](https://github.com/blzee-maker/AI-Engineer-learning)
+### [Model Drifting and Data Monitoring](https://github.com/blzee-maker/Model-Drifting-and-Data-Monitoring)
+A monitoring pipeline that detects data drift against a training baseline and signals when retraining may be needed.
 
-Core AI engineering fundamentals built from scratch, step by step: tokenization with BPE, embeddings and semantic similarity, a MiniGPT implemented in PyTorch, training loops with loss curves, encoder versus decoder architectures, prompting techniques, and API and tool-use mechanics with Gemini and Ollama.
+## Skills and tools
 
-### [Model-Drifting-and-Data-Monitoring ](https://github.com/blzee-maker/Model-Drifting-and-Data-Monitoring)
-
-A monitoring pipeline that detects **data drift** by comparing incoming production data against a training-time baseline, and raises a retraining signal when the share of drifted features crosses a configurable threshold.
-
-## Tech I work with
-
-`Python` `PyTorch` `Hugging Face Transformers` `Ollama` `FAISS` `Streamlit` `Gemini API` `RAG` `Whisper` `Piper`
+**Product:** problem framing · user-focused thinking · prioritization · roadmaps · requirements · success metrics · iteration  
+**Technical:** Python · PyTorch · Hugging Face Transformers · Ollama · FAISS · Streamlit · Gemini API · RAG · Whisper · Piper
 
 ## Currently focused on
 
-Deepening my RAG and evaluation work, and getting my projects to a standard where someone could actually deploy them: tests, documentation, and live demos, not just working code.
+Growing my product discovery and analytics skills, learning from users, and making my projects more production-ready through testing, clear documentation, and live demos.
 
 ## Connect
 
-Open to AI Engineer opportunities. Find me on [LinkedIn](https://www.linkedin.com/in/om-jha-061808201).
-CHeck my portfolio. Find me on [OmJha](https://om-jha-portfolio.vercel.app/)
+I'm open to **Associate Product Manager (APM)** and AI product opportunities.  
+[LinkedIn](https://www.linkedin.com/in/om-jha-061808201) · [Portfolio](https://om-jha-portfolio.vercel.app/)
